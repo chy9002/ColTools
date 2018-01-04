@@ -1,0 +1,1 @@
+find $HOME/Downloads/ -mtime +15 -name "*" -exec rm -rf {} \;
